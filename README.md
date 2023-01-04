@@ -1,6 +1,6 @@
 ### TO DO
-format req.query capitalisation
-handle breed does not exist
+
+
 
 
 ### LINKS
@@ -12,3 +12,4 @@ https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=gpN-Re
 
 
 ### LESSONS LEARNT
+End fetches with forward slash to prevent unpredictable results

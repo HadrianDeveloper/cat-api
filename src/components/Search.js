@@ -20,7 +20,7 @@ export default function Search({setSearchTerm}) {
                     onChange={(e) => setUserInput(e.target.value)}
                 />
             </label>
-            <button type="submit">
+            <button type="submit" disabled={!userInput}>
                 Find
             </button>
         </form>
